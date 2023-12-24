@@ -21,6 +21,11 @@
     --brand-experiment: #129a78;
 }
 
+/* Sets the color of the main chat window */
+:root {
+    --background-primary: #101317;
+}
+
 /* Sets Discord's server list to be the same width as Element's (collapsed) sidebar */
 .guilds__2b93a {
     width: 68px;
