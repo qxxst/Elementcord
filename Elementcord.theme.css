@@ -54,9 +54,9 @@
 
 /* Sets the search bar's background color */
 .searchBarComponent__22760 {
-    background-color: rgba(233,219,240,.06);
+    background-color: rgba(233,219,240,.06) !important;
 }
 
 .searchBar_e4ea2a {
-    background-color: var(--background-secondary);
+    background-color: var(--background-secondary) !important;
 }
