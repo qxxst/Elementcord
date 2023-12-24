@@ -75,3 +75,12 @@
 .wordmarkWindows__05c46 {
     display: none;
 }
+
+/* Updates how channels appear in the list */
+[aria-label="Text icon"] {
+    display: none;
+}
+
+.linkTop_eaa673 {
+    text-transform: capitalize;
+}
