@@ -65,3 +65,8 @@
 :root {
     --brand-500: #4187EB;
 }
+
+/* Sets the settings page to use the same background color as the main chat window */
+.sidebarRegionScroller__1fa7e {
+    background-color: var(--background-primary);
+}
