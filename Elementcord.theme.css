@@ -77,7 +77,7 @@
 }
 
 /* Updates how channels appear in the list */
-[aria-label="Text icon"] {
+[aria-label="Text icon"], [aria-label="Text (Limited) icon"] {
     display: none;
 }
 
