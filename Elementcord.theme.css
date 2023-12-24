@@ -71,7 +71,7 @@
     background-color: var(--background-primary);
 }
 
-/* Hides the Discord logo */
+/* Hides the Discord logo from the top bar */
 .wordmarkWindows__05c46 {
     display: none;
 }
