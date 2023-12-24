@@ -46,3 +46,13 @@
 .guilds__2b93a {
     width: 68px;
 }
+
+/* Sets the mute, deafen, and settings icon colors */
+:root {
+    --interactive-normal: #808994;
+}
+
+/* Sets the search bar's background color */
+.searchBar_e4ea2a {
+    background-color: rgba(233,219,240,.06);
+}
