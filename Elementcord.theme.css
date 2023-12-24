@@ -16,6 +16,11 @@
     --font-code: 'Inconsolata', sans-serif;
 }
 
+/* Sets Discord's purple accent color to Element's green accent color */
+:root {
+    --brand-experiment: #129a78;
+}
+
 /* Sets Discord's server list to be the same width as Element's (collapsed) sidebar */
 .guilds__2b93a {
     width: 68px;
