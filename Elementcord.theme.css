@@ -76,7 +76,7 @@
     display: none;
 }
 
-/* Updates how channels appear in the list */
+/* Updates how text channels appear in the list */
 [aria-label="Text icon"], [aria-label="Text (Limited) icon"] {
     display: none;
 }
