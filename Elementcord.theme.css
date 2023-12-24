@@ -26,6 +26,11 @@
     --background-primary: #101317;
 }
 
+/* Sets the color of the chat input box to be the same as the main chat window */
+.themedBackground__6b1b6 {
+    background-color: var(--background-primary);
+}
+
 /* Sets the color of the channel list */
 :root {
     --background-secondary: rgba(38,40,45,.9);
