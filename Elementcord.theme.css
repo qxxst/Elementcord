@@ -60,3 +60,8 @@
 .searchBar_e4ea2a {
     background-color: var(--background-secondary) !important;
 }
+
+/* Sets the beta tag color */
+:root {
+    --brand-500: #4187EB;
+}
