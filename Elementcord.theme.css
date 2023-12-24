@@ -70,3 +70,8 @@
 .sidebarRegionScroller__1fa7e {
     background-color: var(--background-primary);
 }
+
+/* Hides the Discord logo */
+.wordmarkWindows__05c46 {
+    display: none;
+}
