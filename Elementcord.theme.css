@@ -3,7 +3,7 @@
 * @description A theme to make Discord look like another popular messenger.
 * @author qxxst
 * @website https://github.com/qxxst/Elementcord
-* @version 0.3
+* @version 0.3.1
 * @authorLink https://github.com/qxxst
 */
 
@@ -131,4 +131,9 @@
 /* Removes divider lines from the members list */
 .container__4f20e {
     padding: 0px;
+}
+
+/* Sets the default color of names on the members list to be white */
+.username__11d8c {
+    color: white;
 }
