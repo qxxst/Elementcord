@@ -113,3 +113,8 @@
 .childWrapper__01b9c {
     background-color: var(--background-tertiary);
 }
+
+/* Removes arrows from the search menu */
+.arrowGroup__0c805 {
+    display: none;
+}
