@@ -93,3 +93,8 @@
 .titleWrapper__482dc {
     text-transform: capitalize;
 }
+
+/* Removes the verified checkmark from bots */
+[aria-label="Verified Bot"] {
+    display: none;
+}
