@@ -3,7 +3,8 @@
 * @description A theme to make Discord look like another popular messenger.
 * @author qxxst
 * @website https://github.com/qxxst/Elementcord
-* @version 0.2
+* @version 0.3
+* @authorLink https://github.com/qxxst
 */
 
 /* Imports necessary fonts and tells Discord to use them instead of its illegible default font */
@@ -77,10 +78,57 @@
 }
 
 /* Updates how text channels appear in the list */
-[aria-label="Text icon"], [aria-label="Text (Limited) icon"] {
+[aria-label="Text icon"], [aria-label="Text (Limited) icon"], [aria-label="Rules icon"], [aria-label="Announcements icon"], [aria-label="Text (Active Threads) icon"] {
     display: none;
 }
 
 .linkTop_eaa673 {
     text-transform: capitalize;
+}
+
+/* Updates the names of text channels in the main chat window */
+.titleWrapper__482dc {
+    text-transform: capitalize;
+}
+
+/* Removes the verified checkmark from bots */
+[aria-label="Verified Bot"] {
+    display: none;
+}
+
+/* Removes boost/community icons from server names */
+.guildIconContainer_a995c7 {
+    display: none;
+}
+
+.guildIconV2Container__53cdb {
+    display: none;
+}
+
+/* Sets the selected channel's background color */
+:root {
+    --bg-overlay-selected: rgba(233,219,240,.06);
+}
+
+/* Sets the background color of the home icon */
+.childWrapper__01b9c {
+    background-color: var(--background-tertiary);
+}
+
+/* Removes arrows from the search menu */
+.arrowGroup__0c805 {
+    display: none;
+}
+
+/* Sets the members list to be the same color as the main chat window */
+.membersWrap__90226 {
+    background-color: var(--background-primary);
+}
+.memberInner_a32223 {
+    background-color: var(--background-primary);
+}
+
+/* Removes divider lines from the members list */
+.container__4f20e {
+    padding: 0px;
 }
