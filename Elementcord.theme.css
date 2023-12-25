@@ -112,3 +112,8 @@
 :root {
     --bg-overlay-selected: rgba(233,219,240,.06);
 }
+
+/* Sets the background color of the home icon */
+.childWrapper__01b9c {
+    background-color: var(--background-tertiary);
+}
