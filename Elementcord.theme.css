@@ -132,3 +132,8 @@
 .container__4f20e {
     padding: 0px;
 }
+
+/* Sets the default color of names on the members list to be white */
+.username__11d8c {
+    color: white;
+}
