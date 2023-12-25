@@ -107,3 +107,8 @@
 .guildIconV2Container__53cdb {
     display: none;
 }
+
+/* Sets the selected channel's background color */
+:root {
+    --bg-overlay-selected: rgba(233,219,240,.06);
+}
