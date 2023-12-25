@@ -137,3 +137,8 @@
 .username__11d8c {
     color: white;
 }
+
+/* Removes the divider line under server names */
+.header__104ca {
+    box-shadow: none;
+}
