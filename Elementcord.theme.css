@@ -118,3 +118,16 @@
 .arrowGroup__0c805 {
     display: none;
 }
+
+/* Sets the members list to be the same color as the main chat window */
+.membersWrap__90226 {
+    background-color: var(--background-primary);
+}
+.memberInner_a32223 {
+    background-color: var(--background-primary);
+}
+
+/* Removes divider lines from the members list */
+.container__4f20e {
+    padding: 0px;
+}
