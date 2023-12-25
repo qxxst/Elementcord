@@ -98,3 +98,12 @@
 [aria-label="Verified Bot"] {
     display: none;
 }
+
+/* Removes boost/community icons from server names */
+.guildIconContainer_a995c7 {
+    display: none;
+}
+
+.guildIconV2Container__53cdb {
+    display: none;
+}
