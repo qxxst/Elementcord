@@ -3,7 +3,7 @@
 * @description A theme to make Discord look like another popular messenger.
 * @author qxxst
 * @website https://github.com/qxxst/Elementcord
-* @version 0.4
+* @version 0.4.1
 * @authorLink https://github.com/qxxst
 */
 
@@ -128,6 +128,10 @@
     background-color: var(--background-primary);
 }
 .members__9f47b {
+    background-color: var(--background-primary);
+}
+
+.container_b2ce9c {
     background-color: var(--background-primary);
 }
 
