@@ -166,3 +166,8 @@
 .item_f9d377 {
     background-color: #656c76;
 }
+
+/* Sets the color of the "Friends" bar */
+.theme-dark .themed_b152d4 {
+    background-color: var(--background-secondary);
+}
