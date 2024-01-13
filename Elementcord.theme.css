@@ -161,3 +161,8 @@
     width: 32px;
     height: 32px;
 }
+
+/* Dims the color of unread indicators */
+.item_f9d377 {
+    background-color: var(--interactive-normal);
+}
