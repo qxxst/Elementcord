@@ -38,12 +38,12 @@
     --background-secondary-alt: var(--background-secondary);
 }
 
-/* Sets the color of the server list */
+/* Sets the color of the guild list */
 :root {
     --background-tertiary: rgba(38,39,43,.82);
 }
 
-/* Sets Discord's server list to be the same width as Element's (collapsed) sidebar */
+/* Sets Discord's guild list to be the same width as Element's (collapsed) sidebar */
 .guilds__2b93a {
     width: 68px;
 }
@@ -136,7 +136,7 @@
     color: white;
 }
 
-/* Removes the divider line under server names */
+/* Removes the divider line under guild names */
 .header__104ca {
     box-shadow: none;
 }
