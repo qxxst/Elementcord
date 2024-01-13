@@ -167,7 +167,11 @@
     background-color: #656c76;
 }
 
-/* Sets the color of the "Friends" bar */
+/* Sets the color of the title bars */
 .theme-dark .themed_b152d4 {
     background-color: var(--background-secondary);
+}
+
+.title_b7d661 {
+    background-color: var(--background-primary) !important;
 }
