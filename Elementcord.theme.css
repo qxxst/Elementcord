@@ -163,7 +163,7 @@
 }
 
 /* Fixes guild folders being too large when opened */
-ul[class*="folder-items"] {
+ul[id*="folder-items"] {
     height: inherit;
 }
 
