@@ -140,3 +140,9 @@
 .header__104ca {
     box-shadow: none;
 }
+
+/* Sets the size of each guild in the guild list */
+.wrapper__3af0b {
+    width: 32px;
+    height: 32px;
+}
