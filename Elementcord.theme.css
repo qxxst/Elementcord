@@ -164,7 +164,7 @@
 
 /* Fixes guild folders being too large when opened */
 ul[id*="folder-items"] {
-    height: inherit;
+    height: inherit !important;
 }
 
 /* Dims the color of unread indicators */
