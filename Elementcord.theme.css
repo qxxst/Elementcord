@@ -162,6 +162,11 @@
     height: 32px;
 }
 
+/* Fixes guild folders being too large when opened */
+ul[class*="folder-items"] {
+    height: inherit;
+}
+
 /* Dims the color of unread indicators */
 .item_f9d377 {
     background-color: #656c76;
