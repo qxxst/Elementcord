@@ -186,7 +186,7 @@ ul[id*="folder-items"] {
     height: inherit !important;
 }
 
-/* Changes the shape of guild icons */
+/* Changes the shape of sidebar icons */
 .svg_ad7356 foreignObject[mask] {
     mask: none;
 }
