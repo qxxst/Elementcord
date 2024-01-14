@@ -187,10 +187,13 @@ ul[id*="folder-items"] {
 }
 
 /* Changes the shape of sidebar icons */
+:root {
+    --cpd-avatar-radius: 25%;
+}
 .svg_ad7356 foreignObject[mask] {
     mask: none;
 }
 
 .icon__0cbed {
-    border-radius: 25%;
+    border-radius: var(--cpd-avatar-radius);
 }
