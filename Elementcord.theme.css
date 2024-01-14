@@ -187,7 +187,7 @@ ul[id*="folder-items"] {
 }
 
 /* Changes the shape of guild icons */
-.svg_ad7356 foreignObject[mask="url(#151e39ac-f1d6-4098-b91a-4412ae53f83d)"] {
+.svg_ad7356 foreignObject[mask] {
     mask: none;
 }
 
