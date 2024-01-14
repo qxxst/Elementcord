@@ -192,6 +192,7 @@ ul[id*="folder-items"] {
 }
 .svg_ad7356 foreignObject[mask] {
     mask: none;
+    border-radius: var(--cpd-avatar-radius);
 }
 
 .icon__0cbed {
