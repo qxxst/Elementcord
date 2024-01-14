@@ -180,3 +180,8 @@ ul[id*="folder-items"] {
 .title_b7d661 {
     background-color: var(--background-primary) !important;
 }
+
+/* Fixes new DM notifications being too large */
+.tutorialContainer__890ea div[style="opacity: 1, height: 56px, transform: scale(1);"] {
+    height: inherit !important;
+}
