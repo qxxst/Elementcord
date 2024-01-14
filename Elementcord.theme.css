@@ -198,3 +198,8 @@ ul[id*="folder-items"] {
 .icon__0cbed {
     border-radius: var(--cpd-avatar-radius);
 }
+
+/* Fixes guild folders looking awkward when hovered over */
+.folder__17546.hover__043de {
+    background-color: var(--background-secondary) !important;
+}
