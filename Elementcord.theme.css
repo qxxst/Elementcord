@@ -182,6 +182,6 @@ ul[id*="folder-items"] {
 }
 
 /* Fixes new DM notifications being too large */
-.tutorialContainer__890ea div[style="opacity: 1, height: 56px, transform: scale(1);"] {
+.scroller__3d071 div[style="opacity: 1, height: 56px, transform: scale(1);"] {
     height: inherit !important;
 }
