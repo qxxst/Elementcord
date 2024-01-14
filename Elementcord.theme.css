@@ -185,3 +185,12 @@ ul[id*="folder-items"] {
 .scroller__3d071 div[style="opacity: 1; height: 56px; transform: scale(1);"] {
     height: inherit !important;
 }
+
+/* Changes the shape of guild icons */
+.svg_ad7356 foreignObject[mask="url(#151e39ac-f1d6-4098-b91a-4412ae53f83d)"] {
+    mask: none;
+}
+
+.icon__0cbed {
+    border-radius: 25%;
+}
