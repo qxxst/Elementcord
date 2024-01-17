@@ -20,6 +20,7 @@
 /* Sets Discord's purple accent color to Element's green accent color */
 :root {
     --brand-experiment: #129a78;
+    --brand-experiment-560: #129a78;
     --control-brand-foreground: #129a78;
 }
 
