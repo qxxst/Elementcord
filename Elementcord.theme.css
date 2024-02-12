@@ -215,3 +215,8 @@ ul[id*="folder-items"] {
 div.folderIconWrapper__72239 {
     background-color: var(--background-primary) !important;
 }
+
+/* Sets the color of opened guild folder icons */
+.expandedFolderIconWrapper__458cf svg path {
+    fill: var(--brand-experiment);
+}
