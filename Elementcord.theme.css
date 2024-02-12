@@ -211,7 +211,7 @@ ul[id*="folder-items"] {
     background-color: var(--background-secondary) !important;
 }
 
-/* Sets server folders to use a gray background color */
+/* Sets the background color of guild folders */
 div.folderIconWrapper__72239 {
     background-color: var(--background-primary) !important;
 }
