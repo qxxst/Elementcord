@@ -220,3 +220,14 @@ div.folderIconWrapper__72239 {
 .expandedFolderIconWrapper__458cf svg path {
     fill: var(--brand-experiment);
 }
+
+/* Corrects the shape of guild flower star indicators */
+.flowerStarContainer_d8d14b {
+    background-color: white;
+    clip-path: circle(50% at 50% 50%);
+}
+
+.flowerStar_a9981e {
+    background-color: white;
+    clip-path: circle(50% at 50% 50%);
+}
