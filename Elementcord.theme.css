@@ -210,3 +210,8 @@ ul[id*="folder-items"] {
 .folder__17546.hover__043de {
     background-color: var(--background-secondary) !important;
 }
+
+/* Sets server folders to use a gray background color */
+div.folderIconWrapper__72239 {
+    background-color: var(--background-primary) !important;
+}
