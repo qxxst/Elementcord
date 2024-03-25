@@ -1,6 +1,6 @@
 <a href="https://github.com/qxxst/Elementcord"><img src="logos/app-round.png" height="64" alt="Elementcord logo."></a>
 # Elementcord
-A theme to make Discord look like another popular messenger.
+Theme to make Discord look like another popular messenger.
 ## Installation
 ### Desktop
 1. Install BetterDiscord or any Discord client mod that supports CSS themes.
